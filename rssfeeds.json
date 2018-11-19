@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://motherboard.vice.com/en_us/rss",
+    "outlet": "Motherboard"
+  },
+  {
+    "url": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "outlet": "NYTimes"
+  },
+  {
+    "url": "https://www.cyberscoop.com/feed/",
+    "outlet": "CyberScoop"
+  },
+  {
+    "url": "http://feeds.feedburner.com/TechCrunch/",
+    "outlet": "TechCrunch"
+  },
+  {
+    "url": "https://api.axios.com/feed/",
+    "outlet": "Axios"
+  },
+  {
+    "url": "https://www.theguardian.com/us/rss",
+    "outlet": "The Guardian"
+  },
+  {
+    "url": "http://feeds.bbci.co.uk/news/rss.xml",
+    "outlet": "BBC News"
+  },
+  {
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "outlet": "CNBC"
+  },
+  {
+    "url": "https://www.zdnet.com/news/rss.xml",
+    "outlet": "ZDNet"
+  },
+  {
+    "url": "http://feeds.reuters.com/reuters/topNews",
+    "outlet": "Reuters"
+  },
+  {
+    "url": "https://thehill.com/rss/syndicator/19110",
+    "outlet": "The Hill"
+  },
+  {
+    "url": "https://www.theregister.co.uk/headlines.atom",
+    "outlet": "The Register"
+  },
+  {
+    "url": "https://www.politico.com/rss/politics08.xml",
+    "outlet": "Politico"
+  },
+  {
+    "url": "https://www.politico.com/rss/defense.xml",
+    "outlet": "Politico"
+  }
+]
