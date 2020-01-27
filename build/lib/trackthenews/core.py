@@ -120,7 +120,7 @@ class Article:
         remaining_chars = 280 - len(source) - 3 - 23
         title = (self.title[:remaining_chars] + '…') if len(self.title) > remaining_chars else self.title
 
-        status = "{} {}".format(title, self.url)
+        status = "{}{} {}".format(source, title, self.url)
 
         twitter.update_status(status=status, media_ids=media_ids)
         print(status)
